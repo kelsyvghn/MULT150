@@ -63,6 +63,15 @@ sysinfo.txt
 *.unitypackage
 *.unitypackage.meta
 *.app
+*.meta
+*.png
+*.jpg
+*.tga
+*.exr
+*.brush
+*.terrainlayer
+*.mat
+
 
 # Crashlytics generated file
 crashlytics-build.properties
