@@ -65,7 +65,7 @@ sysinfo.txt
 *.unitypackage.meta
 *.app
 *.png
-*.meta
+
 
 
 # Crashlytics generated file
