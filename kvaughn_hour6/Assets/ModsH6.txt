@@ -1,0 +1,23 @@
+ __  __     __   __     __     ______   __  __    
+/\ \/\ \   /\ "-.\ \   /\ \   /\__  _\ /\ \_\ \   
+\ \ \_\ \  \ \ \-.  \  \ \ \  \/_/\ \/ \ \____ \  
+ \ \_____\  \ \_\\"\_\  \ \_\    \ \_\  \/\_____\ 
+  \/_____/   \/_/ \/_/   \/_/     \/_/   \/_____/                       
+                                                                                                                                                                  
+
+
+A. Add multiple finish zones. See if you can place them in a way that offers the player more choices. For example, a dangerous shortcut route vs an easy but lengthier one.
+Added a finish zone that requires users to cross the water (bridge) as well as a finish zone that does not
+
+
+B. Modify the level to have more, and different hazards. (At least 2 new hazards that are not water.)
+
+I have added multiple hazards to cross, water, walls, and bridges. 
+
+C. Modify the game to include an element of verticality in your game to make use of the jumping mechanic! (spacebar to jump)
+
+To get to the end users have to jump or climb past walls. 
+
+D. Modify the sky and textures to create a world based on your theme.
+
+Sky has been modified
